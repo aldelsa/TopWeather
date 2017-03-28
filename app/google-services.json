@@ -1,0 +1,35 @@
+{
+  "project_info": {
+    "project_number": "11598736707",
+    "project_id": "firebase-topweather"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:11598736707:android:3eb7fab748ef8493",
+        "android_client_info": {
+          "package_name": "alejandro.topweather"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDP-7LKkFsJqgvNxIfhdFQne9K7lCGkFkw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
